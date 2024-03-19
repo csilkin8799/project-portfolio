@@ -108,7 +108,7 @@ satimage_file_path = "Supporting Data Sets"
 
 ## Load data:
 satimage_train = read.table(paste(satimage_file_path, "sat.trn",sep="/"), fileEncoding = "UTF-8", sep="")
-satimage_test = read.table(paste(satimage_file_path, "sat.tst",sep="/"), fileEncoding = "UTF-8", sep="")
+satimage_test = read.table(paste(satimage_file_path, "sat_tst.txt",sep="/"), fileEncoding = "UTF-8", sep="")
 
 ## Turn labels from int to factor:
 satimage_train$V37 = as.factor(satimage_train$V37)
