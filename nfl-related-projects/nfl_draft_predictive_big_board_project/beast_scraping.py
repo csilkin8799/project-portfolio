@@ -8,7 +8,7 @@ pdf_text = "C:/Users/Student/Desktop/Personal Stuff/NFL Draft Project/The Beast/
  #   for element in page_layout:
   #      print(element)
 
-text = extract_text(pdf_text, password = "draftguide2019")
+text = extract_text(pdf_text, password = "...")
 
 pattern = re.compile(r"[A-Z]+.*[A-Z]+\.*\s{1}\|{1}") # Correct pattern
 
