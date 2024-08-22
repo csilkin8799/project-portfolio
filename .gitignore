@@ -1,0 +1,9 @@
+# History files
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*.Rproj
+
+# Private files
+nfl-related-projects/nfl_draft_predictive_big_board_project/the_beast_info/*
