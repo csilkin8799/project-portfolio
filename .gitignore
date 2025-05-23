@@ -6,5 +6,8 @@
 *.Rproj
 
 # Private files
+33rd-team-projects/*
+fsu-masters-projects/FSU_Data_Science_Projects_Source_Materials/*
 nfl-related-projects/nfl_draft_predictive_big_board_project/the_beast_info/*
+nfl-related-projects/unfinished-projects/*
 .Rproj.user
