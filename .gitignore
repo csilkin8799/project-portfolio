@@ -6,8 +6,14 @@
 *.Rproj
 
 # Private files
-33rd-team-projects/*
+33rd-team-projects/33rd_Team_Key_Info/*
+33rd-team-projects/beating_the_49ers/*
+33rd-team-projects/cowboys_report/*
+33rd-team-projects/most_improved_units_and_coordinators/*
+33rd-team-projects/super_bowl_58_analysis/*
+33rd-team-projects/turnover_margin_vs_yards_per_attempt/*
+33rd-team-projects/weekly_reports/*
+33rd-team-projects/pass_rusher_production_project/original/*
 fsu-masters-projects/FSU_Data_Science_Projects_Source_Materials/*
 nfl-related-projects/nfl_draft_predictive_big_board_project/the_beast_info/*
 nfl-related-projects/unfinished-projects/*
-.Rproj.user
